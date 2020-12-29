@@ -24,6 +24,7 @@ gem 'turbolinks', '~> 5'
 
 # Use Active Storage variant
 gem 'cloudinary', '~> 1.16.0'
+gem 'devise'
 gem 'image_processing', '~> 1.2'
 gem 'simple_form'
 
